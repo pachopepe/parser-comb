@@ -1,0 +1,11 @@
+*~
+presentacion.md
+unlit
+metadata.yaml
+.stack-work
+LICENSE
+Setup.hs
+*.cabal
+stack.yaml
+Main.hs
+Markdown.lhs
